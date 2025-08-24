@@ -39,7 +39,7 @@ And if you still try to cheat? **The cat will silently judge you.** 🐈👀
 
 This app is 100% safe. Why?  
 
-* Because I can’t even hack my own Wi-Fi password — hacking your data is impossible. 🤷‍♂️  
+* Because I can’t even hack my own Wi-Fi password — hacking your data is impossible of me. 🤷‍♂️  
 * No shady permissions. Only **Accessibility** (to block apps) + **Video playback**.  
 * The only one “spying” on you is your cat. 🐈  
 
