@@ -78,7 +78,7 @@ So relax — **your focus is safe with me (and the cat).**
 To use FocusLink properly, you’ll need to grant **Accessibility Permission**.  
 I wrote a fun LinkedIn post that explains it step by step (with cat judgment 🐱✨):
 
-👉 [Read the Setup Guide on LinkedIn](https://www.linkedin.com/posts/YOUR_POST_LINK)  
+👉 [Read the Setup Guide on LinkedIn](https://www.linkedin.com/posts/vikrant-singh-135002256_so-i-built-an-app-that-basically-bullies-activity-7365369510733799424-X7EW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8BLjkB0JQIcZEAGjSbIIFBq6g8wnetJ_A)
 
 
 
