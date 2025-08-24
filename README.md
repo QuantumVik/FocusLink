@@ -1,7 +1,5 @@
 # FocusLink
-Here’s a **ready-to-paste GitHub README description** for your app repo, written both informative + funny 😼:
 
----
 
 # 🐱 FocusLink – Stay Productive or Get Judged by a Cat
 
@@ -80,8 +78,3 @@ So don’t worry—**your focus is safe with me (and the cat).**
 FocusLink = Block apps → Play motivation → Get judged by a cat → Stay productive.
 
 ---
-
-👉 Do you also want me to write a **funny GitHub repo tagline** (the one-liner shown *under* the repo name) like:
-
-> *“Stop scrolling. Start focusing. Or get judged by a cat.”* ?
-
