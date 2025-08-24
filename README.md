@@ -67,12 +67,6 @@ So don’t worry—**your focus is safe with me (and the cat).**
 
 ---
 
-## 📸 Screenshots
-
-*(Add your app screenshots here)*
-
----
-
 # TL;DR
 
 FocusLink = Block apps → Play motivation → Get judged by a cat → Stay productive.
