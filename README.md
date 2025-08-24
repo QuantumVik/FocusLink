@@ -1,74 +1,80 @@
-# FocusLink
-
-
 # 🐱 FocusLink – Stay Productive or Get Judged by a Cat
 
 ## 📱 What is this?
 
-FocusLink is an Android app that helps you *actually* stay focused.
-Instead of doom-scrolling on Instagram, YouTube, or Twitter, FocusLink jumps in and says:
+FocusLink is an Android app that helps you *actually* stay focused.  
+Instead of doom-scrolling Instagram, YouTube, or Twitter, FocusLink pops up and goes:  
 
-> “Nope, you’re watching a motivation video instead.”
+> “Nope. Not today. Enjoy this motivational video instead.”  
 
-And yes, if you try to cheat, **the cat will silently judge you.**
+And if you still try to cheat? **The cat will silently judge you.** 🐈👀  
 
 ---
 
 ## ✨ Features
 
-* 🔒 **Redirect Distractions**
-  Try to open social media? Boom → you get redirected to a motivation video.
+* 🔒 **Redirect Distractions**  
+  Try opening a social media app → you get instantly redirected to a motivational video.  
 
-* ⏰ **Scheduled Focus Lock**
-  Set a focus window (e.g., 9 AM – 5 PM). During this time, you can’t disable FocusLink.
-  (Seriously. I coded it so even *I* can’t cheat. Don’t test me.)
+* ⏰ **Scheduled Focus Lock**  
+  Set a focus window (e.g., 9 AM – 5 PM). During this time you *cannot* disable FocusLink.  
+  (Yes, I made it so even I can’t cheat. Don’t test me.)  
 
-* 🎥 **Custom or Built-in Video**
-  Upload your own motivation video, OR use the pre-bundled one if you’re lazy.
+* 🎥 **Custom or Built-in Videos**  
+  Upload your own motivational video, OR use the pre-bundled one if you’re too lazy.  
 
-* 🔁 **Endless Loop**
-  Videos play on repeat until you get back to work. Because one pep-talk is never enough.
+* 🔁 **Endless Loop Mode**  
+  Videos repeat until you *actually* get back to work.  
+  Because one pep-talk is never enough.  
 
-* 🛡 **Accessibility Service Magic**
-  Uses Android’s Accessibility Service to detect foreground apps and block them.
+* 🛡 **Accessibility Service Magic**  
+  Uses Android’s Accessibility Service to detect foreground apps and block them instantly.  
 
-* 🎨 **Minimalist UI**
-  Clean Material3 design, with gradient background, custom switches, and a judgmental cat vibe.
+* 🎨 **Minimalist UI**  
+  Clean Material3 design, gradient backgrounds, custom switches, and of course — cat vibes.  
 
 ---
 
-## 🐾 Why Safe?
+## 🐾 Why Is It Safe?
 
-This app is 100% safe. Why?
+This app is 100% safe. Why?  
 
-* Because I can’t even hack my own Wi-Fi password, forget hacking your data. 🤷‍♂️
-* No shady permissions. Just Accessibility + Video playback.
-* Your cat’s judgment is the only surveillance here. 🐈
+* Because I can’t even hack my own Wi-Fi password — hacking your data is impossible. 🤷‍♂️  
+* No shady permissions. Only **Accessibility** (to block apps) + **Video playback**.  
+* The only one “spying” on you is your cat. 🐈  
 
-So don’t worry—**your focus is safe with me (and the cat).**
+So relax — **your focus is safe with me (and the cat).**  
 
 ---
 
 ## 🚀 Tech Stack
 
-* Kotlin/Java (Android)
-* Accessibility Service API
-* ExoPlayer for video playback
-* SharedPreferences for persistence
-* Material3 UI components
+* Java (Android)  
+* Accessibility Service API  
+* ExoPlayer for video playback  
+* SharedPreferences (lightweight storage)  
+* Material3 UI components  
 
 ---
 
 ## 😼 Future Plans
 
-* Add gamification (earn points for each focus streak).
-* Replace “judgmental cat” with “angry grandma mode” for extra motivation.
-* Cloud sync? Maybe. (But again, can’t hack, so… we’ll see.)
+* Add **gamification** → earn points for focus streaks.  
+* Add **Angry Grandma Mode** 👵 for extra motivation if cats don’t work.  
+* Cloud sync (maybe). If I ever learn how not to break my own router.  
 
 ---
 
-# TL;DR
+## 📥 Download & Install
 
-FocusLink = Block apps → Play motivation → Get judged by a cat → Stay productive.
+👉 [**Download FocusLink APK (v1.0)**](https://github.com/<your-username>/<repo>/releases/download/v1.0/app-release.apk)  
+
+*(Install manually on Android — safe & signed. I can’t hack, so no tension 😅)*  
+
+---
+
+## ⚡ TL;DR
+
+**FocusLink = Block apps → Play motivational video → Cat judges you → You stay productive.**  
 
 ---
