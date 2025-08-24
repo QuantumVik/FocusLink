@@ -67,7 +67,7 @@ So relax — **your focus is safe with me (and the cat).**
 
 ## 📥 Download & Install
 
-👉 [**Download FocusLink APK (v1.0)**]([https://github.com/<your-username>/<repo>/releases/download/v1.0/app-release.apk](https://github.com/QuantumVik/FocusLink/releases/tag/v1.0.0))  
+👉 [**Download FocusLink APK (v1.0)**]([https://github.com/QuantumVik/FocusLink/releases/tag/v1.0.0])  
 
 *(Install manually on Android — safe & signed. I can’t hack, so no tension 😅)*  
 
